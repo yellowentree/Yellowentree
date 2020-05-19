@@ -1,0 +1,23 @@
+body {background-color: yellow}
+
+h1{font-size: 150px; color: forestgreen
+	}
+h2{font-size: 60px; color: pink}
+
+.big{		
+	font-size: 100px
+}
+
+.small{
+	font-size: 80px
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy
+}
+
+h1 span{color: navy}
